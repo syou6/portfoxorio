@@ -8,7 +8,7 @@ export function Sidebar() {
       <div className="bg-[#5F6F7E] p-6 rounded-lg text-white">
         <h2 className="font-bold mb-4">REQUEST</h2>
         <p className="text-sm mb-4">
-          URAGAWAでは、素晴らしいWebサイトを随時募集しております。もしよければ、ご紹介ください。
+          KAWAMOTOでは、素晴らしいWebサイトを随時募集しております。もしよければ、ご紹介ください。
         </p>
         <Button className="w-full bg-[#00BFB2] hover:bg-[#00BFB2]/90 text-white border-none">
           紹介する
